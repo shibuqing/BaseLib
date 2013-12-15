@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define BYTESIZE	(8*sizeof(unsigned char))
+#define BYTESIZE	(8*sizeof(unsigned char))         //×Ö½Ú´óÐ¡
 
 namespace QQGameServerLib
 {
